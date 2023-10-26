@@ -45,7 +45,6 @@ figcaption {
 
 </style>
 
-
 # CEPLAS research data management (RDM)
 
 <style scoped>section {background: none; background-color: white}</style>
@@ -53,7 +52,7 @@ figcaption {
 
 <br>
 
-Steering Committee &ndash; October 26th, 2023
+Steering Committee Meeting &ndash; October 26th, 2023
 
 Dominik Brilhaus, [CEPLAS Data Science](https://www.ceplas.eu/en/research/data-science-and-data-management/)
 
@@ -64,17 +63,6 @@ Dominik Brilhaus, [CEPLAS Data Science](https://www.ceplas.eu/en/research/data-s
 - share data
 - share resources
 - collaborate
-<!-- 
-<style scoped>
-
-section p img {
-width: 850px;
-height: 350px;
-object-fit: cover;
-}
-</style>
-
-![](./../../../img/FAIR_Benefits.png) -->
 
 ---
 
@@ -187,7 +175,6 @@ for lab hackathons
 
 # Lab Hackathons
 
-
 - Good internet connection
 - Isolated from lab // office // daily duties
 - Access to the data to be ARCified
@@ -227,7 +214,6 @@ for lab hackathons
 :bulb: [ARCs in Enabling Platforms](https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/guides/ARC-enablingPlatforms.html)
 
 ---
-
 
 # Data of common interest: resources
 
@@ -273,4 +259,3 @@ Website: <a href="https://nfdi4plants.org/" target="_blank">https://nfdi4plants.
 Knowledge Base: <a href="https://nfdi4plants.org/nfdi4plants.knowledgebase/" target="_blank">https://nfdi4plants.org/nfdi4plants.knowledgebase/</a>
 DataHUB: <a href="https://git.nfdi4plants.org" target="_blank">https://git.nfdi4plants.org</a>
 GitHub: <a href="https://github.com/nfdi4plants" target="_blank">https://github.com/nfdi4plants</a>
-
