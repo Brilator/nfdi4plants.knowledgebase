@@ -114,7 +114,7 @@ https://www.fdm.hhu.de/veranstaltungen/tag-der-forschungsdaten-in-nrw-2023
 
 <style scoped> section {font-size:25px;} </style>
 
-*To be circulated in SC soon* (> [current version](https://uni-duesseldorf.sciebo.de/apps/onlyoffice/721579600?filePath=%2FCEPLAS-data-policy%2FCEPLAS-data-policy.docx))
+*To be circulated in SC soon*
 
 - §1 Coverage
 - §2 Legal framework conditions
