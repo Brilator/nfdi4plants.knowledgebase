@@ -52,7 +52,8 @@ figcaption {
 
 <br>
 
-Steering Committee Meeting &ndash; October 26th, 2023
+Steering Committee Meeting
+October 27th, 2023
 
 Dominik Brilhaus, [CEPLAS Data Science](https://www.ceplas.eu/en/research/data-science-and-data-management/)
 
@@ -96,6 +97,16 @@ The <a href="https://git.nfdi4plants.org" target="_blank">DataHUB</a> is a feder
 ![w:550](./../../../img/tpj16474-fig-0002-m.jpg)
 
 <span class="reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
+
+---
+
+# ARC ecosystem demo @ *Tag der Forschungsdaten* <!-- fit -->
+
+November 14th, 2023
+
+![w:700](hhu-tdfdm-2023.png)
+
+https://www.fdm.hhu.de/veranstaltungen/tag-der-forschungsdaten-in-nrw-2023
 
 ---
 
@@ -158,7 +169,7 @@ The <a href="https://git.nfdi4plants.org" target="_blank">DataHUB</a> is a feder
    3. CEPLAS researchers still present, active and willing to polish ARC
 2. Appointments for lab Hackathons
    1. Sit together two days to create ARCs
-3. Your support "My boss said..."
+3. Your backing "My boss said..."
 
 ---
 
