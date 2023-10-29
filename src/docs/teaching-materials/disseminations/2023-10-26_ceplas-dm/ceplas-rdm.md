@@ -180,7 +180,7 @@ for lab hackathons
 - Nov 15th & 16th (Wed + Thu)
 - Nov 22nd & 23rd (Wed + Thu)
 - Nov 30th & Dec 1st (Thu + Fri)
-- Nov 7th & Dec 8th (Thu + Fri)
+- Dec 7th & Dec 8th (Thu + Fri)
 
 ---
 
